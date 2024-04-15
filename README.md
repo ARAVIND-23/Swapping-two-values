@@ -30,7 +30,7 @@ Vijay_data=tmp
 print("Swapped values are:",Surya_data,Vijay_data)
 ## OUTPUT:
 
-![Python exp1](https://github.com/ARAVIND-23/Swapping-two-values/assets/138970182/61c6332b-8c68-49bf-ba2f-9f023115f64b)
+ ![Python exp1](https://github.com/ARAVIND-23/Swapping-two-values/assets/138970182/61c6332b-8c68-49bf-ba2f-9f023115f64b)
 
 
 

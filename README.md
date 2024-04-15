@@ -18,6 +18,20 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+'''Swapping of two values
+Developed by : ARAVIND G
+Register number : 212223240011
+'''
+Surya_data=int(input())
+Vijay_data=int(input())
+tmp=Surya_data
+Surya_data=Vijay_data
+Vijay_data=tmp
+print("Swapped values are:",Surya_data,Vijay_data)
+## OUTPUT:
+
+![Python exp1](https://github.com/ARAVIND-23/Swapping-two-values/assets/138970182/61c6332b-8c68-49bf-ba2f-9f023115f64b)
+
 
 
 
